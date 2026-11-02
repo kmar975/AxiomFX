@@ -1,0 +1,34 @@
+# Master Config
+universe:
+  primary: "EURUSD"
+  pairs: ["EURUSD", "GBPUSD", "USDJPY", "AUDUSD", "USDCHF", "EURGBP", "EURJPY"]
+  timeframes: ["M1", "M5", "M15", "H1", "H4", "D1", "W1", "MN"]
+  discovery_timeframes: ["D1", "H4", "H1", "M15"]
+  anchor_tz: "America/New_York"
+  anchor_hour: 17
+
+split:
+  dev_ratio: 0.80
+  holdout_ratio: 0.20
+
+costs:
+  cost_multiplier_base: 1.0
+  cost_multiplier_fitness: 1.5
+  cost_multiplier_stress: 2.0
+  max_spread_atr_frac: 0.25
+  rollover_hour_ny: 17
+  commission_per_lot_usd: 7.0
+
+engine:
+  vol_target: 0.10
+  account_equity: 100000.0
+  min_median_hold_hours: 1.0
+  min_trades_primary: 45
+  min_trades_basket: 160
+
+execution:
+  mode: "standard"
+  workers: 4
+  n_nulls: 20
+  enable_tier3: false
+  checkpoint_interval_sec: 30
