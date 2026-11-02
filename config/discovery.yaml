@@ -1,0 +1,21 @@
+qd_archive:
+  grid_bins: [5, 5, 5, 5, 5, 5]
+  descriptors:
+    - "log_holding"
+    - "long_frac"
+    - "trend_corr"
+    - "vol_exposure"
+    - "trades_per_year"
+    - "payoff_profile"
+
+bandit:
+  c_param: 1.414
+  window_stagnation: 0.20
+  stagnation_threshold: 0.05
+
+refine:
+  cluster_correlation_cutoff: 0.40
+  plateau_jitter_steps: [-2, -1, 0, 1, 2]
+  needle_drop_max: 0.50
+  min_candidates: 5
+  max_candidates: 15

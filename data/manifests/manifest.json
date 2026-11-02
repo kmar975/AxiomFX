@@ -1,0 +1,285 @@
+{
+  "files": {
+    "EURUSD_M15": {
+      "path": "output\\timeframes\\EURUSD_M15.csv",
+      "sha256": "ba4f59878a96db7709d7f908b6f8bbc5030091e5cc6f635729f1acb6290487b3",
+      "size_bytes": 2054342
+    },
+    "EURUSD_H1": {
+      "path": "output\\timeframes\\EURUSD_H1.csv",
+      "sha256": "8cfd13e3748c0517109045c2f286b6ec47f09e1f5136c1609e43d1b477191fa1",
+      "size_bytes": 530436
+    },
+    "EURUSD_H4": {
+      "path": "output\\timeframes\\EURUSD_H4.csv",
+      "sha256": "3ff8e657b06847699b0ca266b3fb596d49d5735870f106f3b6883b15ba2e5f51",
+      "size_bytes": 136876
+    },
+    "EURUSD_D1": {
+      "path": "output\\timeframes\\EURUSD_D1.csv",
+      "sha256": "d57b79f30185428dd835300d51e24dd860b64a0c40f903dd6b969a9a1ac2a98a",
+      "size_bytes": 26830
+    },
+    "EURUSD_W1": {
+      "path": "output\\timeframes\\EURUSD_W1.csv",
+      "sha256": "4eebf90b4cf4a3aac2e82ddb4dee77c733f940e0875ba6e60349dd44caf183f1",
+      "size_bytes": 4580
+    },
+    "EURUSD_MN": {
+      "path": "output\\timeframes\\EURUSD_MN.csv",
+      "sha256": "250c1fd853b14cce496e73f6f1f5496e5da915f4bcc14f6bf39d5ef41b4441bd",
+      "size_bytes": 1163
+    },
+    "GBPUSD_M15": {
+      "path": "output\\timeframes\\GBPUSD_M15.csv",
+      "sha256": "5260ef31c76ee8e357fa51a504000276c634f381a2b2da63cca6e8b8aa82af2e",
+      "size_bytes": 2055028
+    },
+    "GBPUSD_H1": {
+      "path": "output\\timeframes\\GBPUSD_H1.csv",
+      "sha256": "7e3c373320ab643c6013c8bb5c5c8640543c2d0fbb7b7bba06abdb800ded3dfb",
+      "size_bytes": 530801
+    },
+    "GBPUSD_H4": {
+      "path": "output\\timeframes\\GBPUSD_H4.csv",
+      "sha256": "ad47dd3cd1cbbf13c61cab972e03bc28efe8b5f411e2fd1f394eed368b4f7a0b",
+      "size_bytes": 137657
+    },
+    "GBPUSD_D1": {
+      "path": "output\\timeframes\\GBPUSD_D1.csv",
+      "sha256": "9169061b8617bce0ac5369f1b84f62648985e0e1419352f7d87b89d39a5a9252",
+      "size_bytes": 30458
+    },
+    "GBPUSD_W1": {
+      "path": "output\\timeframes\\GBPUSD_W1.csv",
+      "sha256": "71d2f3c3eafd340212b4833ca304c332eaf43c72a67e72d83344b6673a0a4adc",
+      "size_bytes": 4596
+    },
+    "GBPUSD_MN": {
+      "path": "output\\timeframes\\GBPUSD_MN.csv",
+      "sha256": "545c6cc39eb05ded646767ecd6c59608ccecfaf61fd174b2ee65ab3a52ced801",
+      "size_bytes": 1164
+    },
+    "USDJPY_M15": {
+      "path": "output\\timeframes\\USDJPY_M15.csv",
+      "sha256": "2736e41324e2d08bf4d942d21236ed61bb0f6513545422b95d0a9339f4d512d9",
+      "size_bytes": 2060770
+    },
+    "USDJPY_H1": {
+      "path": "output\\timeframes\\USDJPY_H1.csv",
+      "sha256": "f72d38e39ec844db7bd80302938f548292af1ae961301b4810542b6ed2ad1b28",
+      "size_bytes": 532472
+    },
+    "USDJPY_H4": {
+      "path": "output\\timeframes\\USDJPY_H4.csv",
+      "sha256": "a69ed3c85956ac9747e795d2c4b5fddfde11c7a8bd74a0c418f0b587ff308751",
+      "size_bytes": 137259
+    },
+    "USDJPY_D1": {
+      "path": "output\\timeframes\\USDJPY_D1.csv",
+      "sha256": "421444b76087e9379ec0a73089248a0cdc4b802118b14aa593ce105db93d9aac",
+      "size_bytes": 26982
+    },
+    "USDJPY_W1": {
+      "path": "output\\timeframes\\USDJPY_W1.csv",
+      "sha256": "0d6e6f7fab3a0170586b03a85cac340fbbcfce64d3beddbfa54b52508353f9b9",
+      "size_bytes": 4556
+    },
+    "USDJPY_MN": {
+      "path": "output\\timeframes\\USDJPY_MN.csv",
+      "sha256": "c1fd7cd8222e7117c046a9e29fdd252a3bf6026fab34edc849f29912274dd6f7",
+      "size_bytes": 1144
+    },
+    "AUDUSD_M15": {
+      "path": "output\\timeframes\\AUDUSD_M15.csv",
+      "sha256": "ef97eb15eae9c2f1a27dc267f74063dc7cd32c5f57b4118d0db184b3c17e7d45",
+      "size_bytes": 2053247
+    },
+    "AUDUSD_H1": {
+      "path": "output\\timeframes\\AUDUSD_H1.csv",
+      "sha256": "c2ce289ade679747422525983906e060bee11ff980ef0aac3be672c21b7ed624",
+      "size_bytes": 530391
+    },
+    "AUDUSD_H4": {
+      "path": "output\\timeframes\\AUDUSD_H4.csv",
+      "sha256": "3b6d6ab8bbb598f154d85f37d77dbaef3bee6af5df5143d1b891bf2c3ac3401f",
+      "size_bytes": 136853
+    },
+    "AUDUSD_D1": {
+      "path": "output\\timeframes\\AUDUSD_D1.csv",
+      "sha256": "49d2b73e6a3d7407f6cc2193b9eb0e760cf98c2a8ebd1b5474c39b877b0db0ec",
+      "size_bytes": 26840
+    },
+    "AUDUSD_W1": {
+      "path": "output\\timeframes\\AUDUSD_W1.csv",
+      "sha256": "a358ee5302f9f6c52260bf2fb58519cc4c1d8d112cc00e4f7ed275b98cdf53b9",
+      "size_bytes": 4532
+    },
+    "AUDUSD_MN": {
+      "path": "output\\timeframes\\AUDUSD_MN.csv",
+      "sha256": "a632d7bdb5729a668ad3c2df185c41ee7ed0b2cc50a05711db2d7ef966579c56",
+      "size_bytes": 1143
+    },
+    "USDCHF_M15": {
+      "path": "output\\timeframes\\USDCHF_M15.csv",
+      "sha256": "9a20a012fd530d18674eef69f8b131518a3fe7468f3bd4e658e4dd7fc910b25a",
+      "size_bytes": 2051322
+    },
+    "USDCHF_H1": {
+      "path": "output\\timeframes\\USDCHF_H1.csv",
+      "sha256": "5248f66f218c3343619a763caa85ff28aa0f9e14f847d0e29bcafd79c6c03eae",
+      "size_bytes": 530724
+    },
+    "USDCHF_H4": {
+      "path": "output\\timeframes\\USDCHF_H4.csv",
+      "sha256": "20ef0311bd96246658c30e1a3e185ec42bfcdff610888a66e5135e410cf07293",
+      "size_bytes": 137516
+    },
+    "USDCHF_D1": {
+      "path": "output\\timeframes\\USDCHF_D1.csv",
+      "sha256": "9b8d87389fa04e626961a90c067744f14650fb3fb3b098a78a1e35044ea91786",
+      "size_bytes": 30313
+    },
+    "USDCHF_W1": {
+      "path": "output\\timeframes\\USDCHF_W1.csv",
+      "sha256": "5f3289ecb98c5530187a347f37a1cf0ddf0f7c303f369e1922d14af667aba2b3",
+      "size_bytes": 4555
+    },
+    "USDCHF_MN": {
+      "path": "output\\timeframes\\USDCHF_MN.csv",
+      "sha256": "f740afa58c750d006b7285668ff87d0f1ddfad5232e041613012c0bfbf16cdeb",
+      "size_bytes": 1143
+    },
+    "EURGBP_M15": {
+      "path": "output\\timeframes\\EURGBP_M15.csv",
+      "sha256": "3746c82059c57cab0d2fb23396b49378c818ea013a0c6df7d0a11755fe6966f6",
+      "size_bytes": 2054013
+    },
+    "EURGBP_H1": {
+      "path": "output\\timeframes\\EURGBP_H1.csv",
+      "sha256": "fef5166540dbb16714f2a2856deccb7e33bf2bb5f4c21ae1c633c2d1679c06ad",
+      "size_bytes": 530571
+    },
+    "EURGBP_H4": {
+      "path": "output\\timeframes\\EURGBP_H4.csv",
+      "sha256": "e27b5ac846ef7613d9a8a28b0e98375628d2aa1706ff4125c78d28a2a6b5c710",
+      "size_bytes": 137076
+    },
+    "EURGBP_D1": {
+      "path": "output\\timeframes\\EURGBP_D1.csv",
+      "sha256": "c11c74e92fbc37e670cd2cdb9d8fcc292a38ae14a534a52428f3df8b2b2b9e3b",
+      "size_bytes": 26817
+    },
+    "EURGBP_W1": {
+      "path": "output\\timeframes\\EURGBP_W1.csv",
+      "sha256": "9a4f7ba7cc3d561f4abd6fa1f06c8746a7aad2306fbb75b2f82e22b1a76d2fef",
+      "size_bytes": 4539
+    },
+    "EURGBP_MN": {
+      "path": "output\\timeframes\\EURGBP_MN.csv",
+      "sha256": "79623eb79e0799f17ded21ae0a45596cc640ba680eba7c8b6a728870ae80f0d5",
+      "size_bytes": 1155
+    },
+    "EURJPY_M15": {
+      "path": "output\\timeframes\\EURJPY_M15.csv",
+      "sha256": "6e6223063be6d23f85248fcf8f487c05f48c32fa568344c136acbcb37aa7dfd8",
+      "size_bytes": 2065293
+    },
+    "EURJPY_H1": {
+      "path": "output\\timeframes\\EURJPY_H1.csv",
+      "sha256": "9c38ed8251c50e01db05a57ce622c7bf32278e3ce6240c72763c29e2e5efb3d2",
+      "size_bytes": 532388
+    },
+    "EURJPY_H4": {
+      "path": "output\\timeframes\\EURJPY_H4.csv",
+      "sha256": "25e96f7072f74433fd7dc9bb97a8d78a0c80bc96fb3b30d916b2ed9a46e6254e",
+      "size_bytes": 137311
+    },
+    "EURJPY_D1": {
+      "path": "output\\timeframes\\EURJPY_D1.csv",
+      "sha256": "bbe56097bbec7740fa853ed8e0e003adb1a52bbbf98ccf796eef4228b49ba891",
+      "size_bytes": 26966
+    },
+    "EURJPY_W1": {
+      "path": "output\\timeframes\\EURJPY_W1.csv",
+      "sha256": "2f02ae9f3a02d9fd6673f625be879e5f6b6960a58e47287263cfca721e10a6bb",
+      "size_bytes": 4596
+    },
+    "EURJPY_MN": {
+      "path": "output\\timeframes\\EURJPY_MN.csv",
+      "sha256": "aefa8ca6d4010e375911f8d166a4641fdd42af64cfccaf4de80c601eb53dd38a",
+      "size_bytes": 1159
+    },
+    "EURUSD_M5": {
+      "path": "output\\timeframes\\EURUSD_M5.csv",
+      "sha256": "a9024f143e1b1845d0ef280879694d2cfd4e4a6eb0b8ab91a9310199875e70cd",
+      "size_bytes": 870389
+    },
+    "EURUSD_M1": {
+      "path": "output\\timeframes\\EURUSD_M1.csv",
+      "sha256": "1e85da61a8e42ca4896e684357a4dd96bb6c3241eda7183634aadedcf4fb7354",
+      "size_bytes": 1483035
+    },
+    "GBPUSD_M5": {
+      "path": "output\\timeframes\\GBPUSD_M5.csv",
+      "sha256": "571744328d4bb3a3d61c359034e4c2a4a152fea1e528050fbb0b0fb063bc5880",
+      "size_bytes": 869643
+    },
+    "GBPUSD_M1": {
+      "path": "output\\timeframes\\GBPUSD_M1.csv",
+      "sha256": "993e520d2cb339c8be7eadebfd76eb494d3b4858d6f1e15d112b30212c4ce9ad",
+      "size_bytes": 1476629
+    },
+    "USDJPY_M5": {
+      "path": "output\\timeframes\\USDJPY_M5.csv",
+      "sha256": "7e7a5f4985c0af6c4fbead18352a14f7bfe1a86497b1d141e8059f10d6c61307",
+      "size_bytes": 877766
+    },
+    "USDJPY_M1": {
+      "path": "output\\timeframes\\USDJPY_M1.csv",
+      "sha256": "7babc6f417c1188831a6130c6d6522ba50bfe7b5d2f684df3a0c7b2633cfa7f1",
+      "size_bytes": 1491652
+    },
+    "AUDUSD_M5": {
+      "path": "output\\timeframes\\AUDUSD_M5.csv",
+      "sha256": "9e331b352a90a04efe943fb25b76ebb7e8d07b59f3ce2f7c0d28f55207dfe050",
+      "size_bytes": 869793
+    },
+    "AUDUSD_M1": {
+      "path": "output\\timeframes\\AUDUSD_M1.csv",
+      "sha256": "c6d4e4cabe020e9523add3bc098e4b62dd1196a8770433085ad761ca6e565998",
+      "size_bytes": 1479795
+    },
+    "USDCHF_M5": {
+      "path": "output\\timeframes\\USDCHF_M5.csv",
+      "sha256": "9b5fc4537fa71ac105b0be8e3d295bd63da47c49e4f1f754d6c52efbafa20318",
+      "size_bytes": 875869
+    },
+    "USDCHF_M1": {
+      "path": "output\\timeframes\\USDCHF_M1.csv",
+      "sha256": "4b0dd3d834eea6107e2c492d4baaceab6439e387ba73dfbb17041af683c62fae",
+      "size_bytes": 1490308
+    },
+    "EURGBP_M5": {
+      "path": "output\\timeframes\\EURGBP_M5.csv",
+      "sha256": "edb3d01da61a989c6792f353087d093663942a90acc45f085fca03e289817c4a",
+      "size_bytes": 870471
+    },
+    "EURGBP_M1": {
+      "path": "output\\timeframes\\EURGBP_M1.csv",
+      "sha256": "359aa05a66b197b53add5eb7ff6ccb3665d62faee463373e49bd29070792f850",
+      "size_bytes": 1484076
+    },
+    "EURJPY_M5": {
+      "path": "output\\timeframes\\EURJPY_M5.csv",
+      "sha256": "0cdf8e20640d2bfe866bae3406b11925459e59a3c55660bee419ca39bd862df4",
+      "size_bytes": 873103
+    },
+    "EURJPY_M1": {
+      "path": "output\\timeframes\\EURJPY_M1.csv",
+      "sha256": "fd0506d306d8454743769a7d314f09543ad2a88a78fd0ada6e6b2cd9ce44e070",
+      "size_bytes": 1481534
+    }
+  },
+  "generated_at": "2026-10-31T10:24:35.725190+00:00"
+}

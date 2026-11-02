@@ -1,0 +1,22 @@
+windows:
+  log_grid: [3, 5, 10, 20, 40, 80, 160]
+  classic:
+    rsi_period: 14
+    rsi_fast: 2
+    macd_fast: 12
+    macd_slow: 26
+    macd_signal: 9
+    bb_period: 20
+    bb_std: 2.0
+    kc_period: 20
+    kc_mult: 1.5
+    ichimoku_tenkan: 9
+    ichimoku_kijun: 26
+    ichimoku_senkou: 52
+    donchian_fast: 20
+    donchian_slow: 55
+
+percentiles:
+  rolling_window: 250
+  min_periods: 50
+  levels: [10, 20, 30, 70, 80, 90]

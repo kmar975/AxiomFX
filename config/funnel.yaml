@@ -1,0 +1,14 @@
+funnel:
+  s0_top_pct: 0.15
+  s0_min_trades: 10
+  s1_dev_fraction: 0.333
+  s2_jitter_step: 1
+  s3_elites_pct: 0.02
+  jaccard_dedup_threshold: 0.95
+
+budget:
+  e0_max_share: 0.30
+  phase_c_min_share: 0.70
+  demo_budget: 200
+  standard_budget: 2000
+  deep_budget: 10000

@@ -1,0 +1,17 @@
+null_world:
+  standard_nulls: 20
+  deep_nulls: 50
+  p_value_threshold: 0.05
+  anchor_hour_ny: 17
+
+recovery:
+  snr_levels: [0.6, 0.8, 1.0]
+  rules:
+    - "two_condition_core"
+    - "three_condition_htf"
+    - "state_sequence"
+
+stress:
+  spread_multiplier: 2.0
+  latency_bars: 1
+  parameter_jitter_pct: 0.20
